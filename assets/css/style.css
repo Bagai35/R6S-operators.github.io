@@ -302,3 +302,7 @@ footer{
 .footer p{
     padding: 0 0 10px 0;
 }
+
+img{
+    height: 100px;
+}
