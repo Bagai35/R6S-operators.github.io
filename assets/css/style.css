@@ -303,10 +303,10 @@ footer{
     padding: 0 0 10px 0;
 }
 hr{
-    width: 800px;
+    width: 650px;
     color: #000;
     border: solid 0.5px #000000;
-    border-radius: 5px;
+    border-radius: 4px;
 }
 img{
     height: 85px;
